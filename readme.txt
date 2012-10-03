@@ -10,3 +10,23 @@ The core code is there. Installation is two parts, first is the APK and the seco
 I'm just throwing this up hoping someone will see it and throw me a bone. 
 
 Licensed under Creative Commons 2012.
+
+TESTING SERVER:
+
+                          .oyhhs:   User: aaron
+                 ..--.., shhhhhh-   Hostname: the5thpixel
+               -+++++++++`:yyhhyo`  OS: Ubuntu 10.10 i686
+          .--  -++++++++/-.-::-`    Kernel: 2.6.35-32-generic-pae
+        .::::-   :-----:/+++/++/.   Uptime: 1 day, 14:42
+       -:::::-.          .:++++++:  Shell: Bash
+  ,,, .:::::-`             .++++++- Terminal: Xterm-256color
+./+++/-`-::-                ./////: Packages: 1439
++++++++ .::-                        CPU: Intel(R) Pentium(R) 4 CPU 2.40GHz
+./+++/-`-::-                :yyyyyo RAM: 177 MB / 999 MB
+  ``` `-::::-`             :yhhhhh: Disk: 46G / 144G
+       -:::::-.         `-ohhhhhh+  
+        .::::-` -o+///+oyhhyyyhy:   
+         `.--  /yhhhhhhhy+,....     
+               /hhhhhhhhh-.-:::;    
+               `.:://::- -:::::;    
+                         `.-:-'   
