@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleUptime</string>
+    <string name="uptime">Uptime here</string>
+    <string name="configText">Enter the address where you placed the uptime directory. Include http://</string>
+</resources>
